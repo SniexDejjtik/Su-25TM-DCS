@@ -19,7 +19,7 @@ Tento mod přidává letoun **Su-25TM (Su-39)** do **DCS World**, využívajíc�
    ```
    Saved Games/DCS/Mods/Aircraft/
    ```
-3. Spusťte DCS a aktivujte mod.
+3. Spusťte DCS a mod by měl být aktivní pokud ne zkontrolujte.
 
 ## Požadavky
 - **DCS World**
