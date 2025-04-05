@@ -14,6 +14,7 @@ Tento mod přidává letoun **Su-25TM (Su-39)** do **DCS World**, využívajíc�
 - ❌ **Eject způsobuje crash hry** – problém s ARG parametry modelu Su-25TM
 
 ## Instalace
+[![Download](https://img.shields.io/badge/Download-V1.1-blue?style=for-the-badge)](https://github.com/SniexDejjtik/Su-25TM-DCS/releases/tag/V1.1)
 1. Stáhněte soubory modu.
 2. Nakopírujte složku **Su-25TM_Mod** do:
    ```
@@ -29,7 +30,5 @@ Tento mod přidává letoun **Su-25TM (Su-39)** do **DCS World**, využívajíc�
 - Pokud najdu řešení opravu Bugu při ejjectu mělo by být vše done
  - Pokud nemáte nastevní controls musíte si ho zkopírovat ze složky DCS Su-25T
 - **Feedback a reporty bugů jsou vítány!**
-
-[![Download](https://img.shields.io/badge/Download-V1.1-blue?style=for-the-badge)](https://github.com/SniexDejjtik/Su-25TM-DCS/releases/tag/V1.1)
 
 
