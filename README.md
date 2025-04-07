@@ -22,10 +22,6 @@ Tento mod přidává letoun **Su-25TM (Su-39)** do **DCS World**, využívajíc�
    ```
 3. Spusťte DCS a mod by měl být aktivní pokud ne zkontrolujte.
 
-## Požadavky
-- **DCS World**
-- **AI Su-25TM musí být součástí hry**, aby byl model viditelný pro všechny
-
 ## Poznámky
 - Pokud najdu řešení opravu Bugu při ejjectu mělo by být vše done
  - Pokud nemáte nastevní controls musíte si ho zkopírovat ze složky DCS Su-25T
