@@ -1,4 +1,4 @@
-# Su-25TM Mod for DCS
+# Su-25TM Mod for DCS CZ
 
 ## Popis
 Tento mod přidává letoun **Su-25TM (Su-39)** do **DCS World**, využívající existující model od **Eagle Dynamics**. Mod poskytuje vylepšenou bitevní platformu s možností nesení pokročilé výzbroje, včetně **Kh-31**.
@@ -27,4 +27,31 @@ Tento mod přidává letoun **Su-25TM (Su-39)** do **DCS World**, využívajíc�
  - Pokud nemáte nastevní controls musíte si ho zkopírovat ze složky DCS Su-25T
 - **Feedback a reporty bugů jsou vítány!**
 
+# Su-25TM Mod for DCS EN
 
+## Description
+This mod adds the **Su-25TM (Su-39)** aircraft to **DCS World**, using an existing model from **Eagle Dynamics**. The mod provides an improved combat platform with the ability to carry advanced weapons, including the **Kh-31**.
+
+## Features
+- ✅ **Uses the Su-25TM model from Eagle Dynamics**
+- ✅ **Cockpit is from another aircraft "Su-25M3" (temporary solution)**
+- ✅ **Central display with smaller GPS screen on the side "RWR is audio only"**
+- ✅ **AFM (Advanced Flight Model)** – corresponds to the flight characteristics of the Su-25TM
+- ✅ **Compatibility with AI Su-25TM from ED** – necessary for the model to be visible to all players
+
+## Known bugs
+- ❌ **Eject causes game crash** – problem with ARG parameters of the Su-25TM model
+
+## Installation
+[![Download](https://img.shields.io/badge/Download-V1.1-blue?style=for-the-badge)](https://github.com/SniexDejjtik/Su-25TM-DCS/releases/tag/V1.1)
+1. Download the mod files.
+2. Copy the **Su-25TM_Mod** folder to:
+```
+Saved Games/DCS/Mods/Aircraft/
+```
+3. Run DCS and the mod should be active, if not, check.
+
+## Notes
+- If I find a solution to fix the ejection bug, everything should be done
+- If you don't have the custom controls, you need to copy it from the DCS Su-25T folder
+- **Feedback and bug reports are welcome!**
