@@ -5,10 +5,10 @@ Tento mod přidává letoun **Su-25TM (Su-39)** do **DCS World**, využívajíc�
 
 ## Vlastnosti
 - ✅ **Používá model Su-25TM od Eagle Dynamics**
-- ✅ **Kokpit je z jiného letadla (dočasné řešení)**
-- ✅ **Centrální displej s menší GPS obrazovkou**
+- ✅ **Kokpit je z jiného letadla "Su-25M3" (dočasné řešení)**
+- ✅ **Centrální displej s menší GPS obrazovkou v boku "RWR je pouze zvukové"**
 - ✅ **AFM (Advanced Flight Model)** – odpovídá letovým charakteristikám Su-25TM
-- ✅ **Kompatibilita s AI Su-25TM** – nutné pro viditelnost modelu všemi hráči
+- ✅ **Kompatibilita s AI Su-25TM od ED** – nutné pro viditelnost modelu všemi hráči
 
 ## Známé bugy
 - ❌ **Eject způsobuje crash hry** – problém s ARG parametry modelu Su-25TM
