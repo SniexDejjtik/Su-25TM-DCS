@@ -10,7 +10,7 @@ přidává letoun **Su-25TM (Su-39)** do **DCS World**, využívající existuj�
 - ✅ **AFM (Advanced Flight Model)** – odpovídá letovým charakteristikám Su-25TM
 - ✅ **Kompatibilita s AI Su-25TM od ED** – nutné pro viditelnost modelu všemi hráči
 
-Tohle není "mod" aby tohle byl mod musel bych Překopírovat všechno a upravit data tomuto letadlu, já využívám ED moduly a Ostní jejich data, pak jsem Přidal kokpit aby to šlo létat
+- Tento mod není tradičním modem s vlastním modelem nebo zvuky. Jde o kombinaci původního obsahu hry DCS (model Su-25TM, kokpit Su-25T), která umožňuje hráči pilotovat letoun Su-25TM. Neobsahuje žádný placený obsah, nemění originální soubory DCS a je vytvořen v rámci možností dostupných modifikací.
 
 ## Známé bugy
 - ❌ **Eject způsobuje crash hry** – problém s ARG parametry modelu Su-25TM
