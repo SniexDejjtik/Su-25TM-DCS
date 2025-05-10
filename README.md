@@ -29,10 +29,10 @@ Tohle není "mod" aby tohle byl mod musel bych Překopírovat všechno a upravit
  - Pokud nemáte nastevní controls musíte si ho zkopírovat ze složky DCS Su-25T
 - **Feedback a reporty bugů jsou vítány!**
 
-# Su-25TM Mod for DCS EN
+# Su-25TM for DCS EN
 
 ## Description
-This mod adds the **Su-25TM (Su-39)** aircraft to **DCS World**, using an existing model from **Eagle Dynamics**. The mod provides an improved combat platform with the ability to carry advanced weapons, including the **Kh-31**.
+adds the **Su-25TM (Su-39)** aircraft to **DCS World**, using an existing model from **Eagle Dynamics**. The mod provides an improved combat platform with the ability to carry advanced weapons, including the **Kh-31**.
 
 ## Features
 - ✅ **Uses the Su-25TM model from Eagle Dynamics**
@@ -46,8 +46,8 @@ This mod adds the **Su-25TM (Su-39)** aircraft to **DCS World**, using an existi
 
 ## Installation
 [![Download](https://img.shields.io/badge/Download-V1.1-blue?style=for-the-badge)](https://github.com/SniexDejjtik/Su-25TM-DCS/releases/tag/V1.1)
-1. Download the mod files.
-2. Copy the **Su-25TM_Mod** folder to:
+1. Download the files.
+2. Copy the **Su-25TM** folder to:
 ```
 Saved Games/DCS/Mods/Aircraft/
 ```
