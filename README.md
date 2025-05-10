@@ -44,6 +44,11 @@ adds the **Su-25TM (Su-39)** aircraft to **DCS World**, using an existing model 
 - ✅ **AFM (Advanced Flight Model)** – corresponds to the flight characteristics of the Su-25TM
 - ✅ **Compatibility with AI Su-25TM from ED** – necessary for the model to be visible to all players
 
+### Hybrid mod (50/50) – neither, nor yes
+- This mod is not a traditional mod with its own model or sounds.
+It is a combination of the original content of the DCS game (Su-25TM model, Su-25SM3 cockpit), which allows the player to pilot the Su-25TM aircraft.
+- It does not contain any paid content, does not change the original DCS files and is created within the possibilities of available community modifications.
+
 ## Known bugs
 - ❌ **Eject causes game crash** – problem with ARG parameters of the Su-25TM model
 
