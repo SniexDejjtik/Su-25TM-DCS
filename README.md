@@ -17,8 +17,8 @@ Tohle není "mod" aby tohle byl mod musel bych Překopírovat všechno a upravit
 
 ## Instalace
 [![Download](https://img.shields.io/badge/Download-V1.1-blue?style=for-the-badge)](https://github.com/SniexDejjtik/Su-25TM-DCS/releases/tag/V1.1)
-1. Stáhněte soubory modu.
-2. Nakopírujte složku **Su-25TM_Mod** do:
+1. Stáhněte soubory
+2. Nakopírujte složku **Su-25TM** do:
    ```
    Saved Games/DCS/Mods/Aircraft/
    ```
