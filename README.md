@@ -1,7 +1,7 @@
-# Su-25TM Mod for DCS CZ
+# Su-25TM for DCS CZ
 
 ## Popis
-Tento mod přidává letoun **Su-25TM (Su-39)** do **DCS World**, využívající existující model od **Eagle Dynamics**. Mod poskytuje vylepšenou bitevní platformu s možností nesení pokročilé výzbroje, včetně **Kh-31**.
+přidává letoun **Su-25TM (Su-39)** do **DCS World**, využívající existující model od **Eagle Dynamics**. Mod poskytuje vylepšenou bitevní platformu s možností nesení pokročilé výzbroje, včetně **Kh-31**.
 
 ## Vlastnosti
 - ✅ **Používá model Su-25TM od Eagle Dynamics**
@@ -9,6 +9,8 @@ Tento mod přidává letoun **Su-25TM (Su-39)** do **DCS World**, využívajíc�
 - ✅ **Centrální displej s menší GPS obrazovkou v boku "RWR je pouze zvukové"**
 - ✅ **AFM (Advanced Flight Model)** – odpovídá letovým charakteristikám Su-25TM
 - ✅ **Kompatibilita s AI Su-25TM od ED** – nutné pro viditelnost modelu všemi hráči
+
+Tohle není "mod" aby tohle byl mod musel bych Překopírovat všechno a upravit data tomuto letadlu, já využívám ED moduly a Ostní jejich data, pak jsem Přidal kokpit aby to šlo létat
 
 ## Známé bugy
 - ❌ **Eject způsobuje crash hry** – problém s ARG parametry modelu Su-25TM
